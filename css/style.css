@@ -1,0 +1,65 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.container div {
+    background-color: rgba(51, 42, 41, 0.651);
+    margin: 0 auto;
+    border-radius: 8px;
+
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    margin-bottom: -15px;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+button {
+    cursor: pointer;
+    border-radius: 8%;
+    color: tomato;
+    padding: 10px 35px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.status {
+    font-size: 12;
+}

@@ -6,7 +6,15 @@
 
 ​        Foi proposto para os participantes do programa Estrelas fora da Caixa, a implementação de uma página que mostra aleatoriamente quatro personagens da série Rick e Morty e seus nomes, e sempre que a página for atualizada, outros quatro personagens deverão ser apresentados. Como acréscimo ao desafio, adicionei o estado de vida dos personagens e um botão para atualização da página.
 
-​        Ao iniciar-se a criação do conteúdo é necessário a criação de uma nova pasta, onde será armazenada todos os arquivos produzidos. Todo o conteúdo produzido para este desafio, foi construído utilizando o editor de código da Microsoft, Visual Studio Code.
+​        Ao iniciar-se a criação do conteúdo é necessário a criação de uma nova pasta, onde será armazenada todos os arquivos produzidos. Todo o conteúdo produzido para este desafio, foi construído utilizando o editor de código da Microsoft, Visual Studio Code. Para este projeto utilizei como método de estudo os sites W3School.com, stackoverflow.com, vídeos do YouTube e a revisão das aulas do mini curso. Abaixo trago o detalhamento de como cheguei no resultado proposto
+
+## Resultado do projeto
+
+
+
+![alt.text](documentation/resultadoFinal.jpg)
+
+
 
 ### HTML
 
@@ -16,7 +24,7 @@
 
 
 
-<img src="html1.jpg" alt="alt text" style="zoom:80%;" />
+![alt.text](documentation/html1.jpg)
 
 
 
@@ -26,14 +34,13 @@
 
 ​	E por último, foi implementado o elemento <.button> para a criação de um botão de atualização da página, com o intuito de gerar mais interatividade entre a página e o usuário. Também foi atribuída a esta TAG um “id”.
 
-
-<img src="html2.jpg" alt="alt text" style="zoom:120%;" />
+<img src="documentation/html2.jpg" alt="alt text" style="zoom:120%;" />
 
 - Todo o documento HTML, ficou da seguinte forma:
 
-<img src="html3.jpg" alt="alt text" style="zoom:70%;" />
+<img src="documentation/html3.jpg" alt="alt text" style="zoom:70%;" />
 
-<img src="html4.jpg" alt="alt.text" style="zoom:89%;" />
+<img src="documentation/html4.jpg" alt="alt.text" style="zoom:89%;" />
 
 
 ### CSS
@@ -46,9 +53,9 @@
 
 - Todo conteúdo CSS ficou da seguinte maneira:
 
-<img src="css1.jpg" alt="alt.text" style="zoom:80%;" />
+<img src="documentation/css1.jpg" alt="alt.text" style="zoom:80%;" />
 
-<img src="css2.jpg" alt="alt.text" style="zoom:80%;" />
+<img src="documentation/css2.jpg" alt="alt.text" style="zoom:80%;" />
 
 ​	
 
@@ -80,9 +87,13 @@
 
 - Todo o documento JS ficou da seguinte forma:
 
-<img src="js1.jpg" width = "60%" ></img>
+<img src="documentation/js1.jpg" width = "60%" ></img>
 
-<img src="js2.jpg" width = "60%" ></img>
+<img src="documentation/js2.jpg" width = "60%" ></img>
 
-<img src="js3.jpg" width = "60%" ></img>
+<img src="documentation/js3.jpg" width = "60%" ></img>
+
+
+
+
 

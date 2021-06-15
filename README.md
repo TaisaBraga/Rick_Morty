@@ -12,20 +12,19 @@
 
 ​	O HTML não é uma linguagem de programação, ele é utilizado para construção do “esqueleto” do site.         
 
-​	Inicia-se o arquivo em HTML com a parametrização de algumas informações, como tipo de documento e idioma da página, logo após foi inserido o elemento <head> seguidos dos elementos <meta> utilizados para configuração universal dos acentos, compatibilidade de navegadores e adaptação de tela em outros dispositivos, em seguida o elemento <title> para definir o título do site na aba do navegador, o elemento <link> utilizado para fazer a conexão entre o documento HTML e o CSS, e em seguida, o elemento <script> empregado para conectar o documento HTML ao documento em JavaScript. Todos esses elementos foram dispostos da seguinte forma:
+​	Inicia-se o arquivo em HTML com a parametrização de algumas informações, como tipo de documento e idioma da página, logo após foi inserido o elemento <.head> seguidos dos elementos <.meta> utilizados para configuração universal dos acentos, compatibilidade de navegadores e adaptação de tela em outros dispositivos, em seguida o elemento <.title> para definir o título do site na aba do navegador, o elemento <.link> utilizado para fazer a conexão entre o documento HTML e o CSS, e em seguida, o elemento <script> empregado para conectar o documento HTML ao documento em JavaScript. Todos esses elementos foram dispostos da seguinte forma:
 
 
 
 <img src="html1.jpg" alt="alt text" style="zoom:80%;" />
 
-​	
 
-​	Após a estruturação dos parâmetros do documento, da-se início ao corpo do documento HTML pelo elemento <body>, contento dentro deste elemento, a TAG <h1> utilizado para o título da página no navegador, e <h2> como subtítulo. Em seguida o elemento <div> foi utilizado para a construção de blocos, para que fosse possível arquitetar o código em JAVASCRIPT e CSS, neste elemento foi utilizado o sistema de classes (*class*) para que o CSS acessasse esse documento.
 
-​	No desafio foi proposto que a página mostrasse a imagem de quatro personagens, para isso foram criados quatro blocos, usando a TAG <div> e dentro de cada bloco, contém o elemento <img>, para a busca da foto do personagem e a “id” que será utilizada no JAVASCRIPT. O elemento <p> para o nome do personagem, também com um “id” e outro elemento <p> para o estado de vida do personagem com um “id” e também foi atribuído uma *class*, para que fosse possível a aplicação do CSS nessa frase.  A TAG <p> é utilizada para escrever uma frase. 
+​	Após a estruturação dos parâmetros do documento, da-se início ao corpo do documento HTML pelo elemento <.body>, contento dentro deste elemento, a TAG <.h1> utilizado para o título da página no navegador, e <.h2> como subtítulo. Em seguida o elemento <.div> foi utilizado para a construção de blocos, para que fosse possível arquitetar o código em JAVASCRIPT e CSS, neste elemento foi utilizado o sistema de classes (*class*) para que o CSS acessasse esse documento.
 
-​	E por último, foi implementado o elemento <button> para a criação de um botão de atualização da página, com o intuito de gerar mais interatividade entre a página e o usuário. Também foi atribuída a esta TAG um “id”.
+​	No desafio foi proposto que a página mostrasse a imagem de quatro personagens, para isso foram criados quatro blocos, usando a TAG <.div> e dentro de cada bloco, contém o elemento <.img>, para a busca da foto do personagem e a “id” que será utilizada no JAVASCRIPT. O elemento <.p> para o nome do personagem, também com um “id” e outro elemento <.p> para o estado de vida do personagem com um “id” e também foi atribuído uma *class*, para que fosse possível a aplicação do CSS nessa frase.  A TAG <.p> é utilizada para escrever uma frase. 
 
+​	E por último, foi implementado o elemento <.button> para a criação de um botão de atualização da página, com o intuito de gerar mais interatividade entre a página e o usuário. Também foi atribuída a esta TAG um “id”.
 
 
 <img src="html2.jpg" alt="alt text" style="zoom:120%;" />
@@ -35,7 +34,6 @@
 <img src="html3.jpg" alt="alt text" style="zoom:70%;" />
 
 <img src="html4.jpg" alt="alt.text" style="zoom:89%;" />
-
 
 
 ### CSS
